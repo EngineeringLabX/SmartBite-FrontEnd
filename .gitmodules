@@ -1,0 +1,4 @@
+[submodule "SmartBite_Web"]
+	path = SmartBite_Web
+	url = https://github.com/EngineeringLabX/SmartBite_Web.git
+	branch = main
