@@ -1,7 +1,3 @@
-[submodule "SmartBite_Web"]
-	path = SmartBite_Web
-	url = https://github.com/EngineeringLabX/SmartBite_Web.git
-	branch = main
 [submodule "SmartBite_Frontend_Web"]
 	path = SmartBite_Frontend_Web
 	url = https://github.com/EngineeringLabX/SmartBite_Frontend_Web.git
